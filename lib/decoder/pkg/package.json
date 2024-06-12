@@ -1,0 +1,11 @@
+{
+  "name": "decoder",
+  "version": "0.1.0",
+  "files": [
+    "decoder_bg.wasm",
+    "decoder.js",
+    "decoder.d.ts"
+  ],
+  "main": "decoder.js",
+  "types": "decoder.d.ts"
+}
