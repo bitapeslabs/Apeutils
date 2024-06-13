@@ -1,7 +1,7 @@
-const { decode } = require('./lib/decoder')
+const { decipher } = require('./lib/decoder')
 
 module.exports = {
     runestone: {
-        decipher: decode
+        decipher: decipher
     }
 }
