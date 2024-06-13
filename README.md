@@ -4,6 +4,11 @@
 
 Ape utils is a compilation of Rune based utilities created mantained by Runeapes Labs.
 
+
+#### Installation: 
+```js
+npm i @runeapes/apeutils
+```
 ## Runestone Decoder
 
 Based on Ord 0.18.5 (and updated on every subsequent release), the Runestone decoder is an up to date version of the native Runestone decipher function on Ord, compiled with WASM to javascript. It takes in a raw transaction hex and returns a JSON representation of the transaction's runestone.
